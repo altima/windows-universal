@@ -1,0 +1,6 @@
+platform:
+  - ARM
+configuration:
+  - Release
+artifacts:
+  - path: "**\*.appx"
